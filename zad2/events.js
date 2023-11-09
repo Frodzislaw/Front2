@@ -1,3 +1,4 @@
+
 let number = 0;
 const zwieksz = document.getElementById('zwiekszanie')
 const zmien = document.getElementById('zmiana')
